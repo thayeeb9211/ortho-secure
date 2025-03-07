@@ -19,6 +19,7 @@ OrthoSecure is a robust and secure application designed to enhance security and 
 - **Ease of Deployment:** Simple setup with Docker and Kubernetes.
 - **Policy Enforcement:** Implements security policies using Falco and other monitoring tools.
 
+##	Tools and technologies: Python, HTML, CSSS, Javascript, Docker, Kubernetes, Trivy, SonarQube, Git, Gitlab, Terraform, AWS services and GitHub Actions. 
 
 ## Complete Video Demonstration
 
