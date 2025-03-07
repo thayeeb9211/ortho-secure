@@ -23,9 +23,7 @@ OrthoSecure is a robust and secure application designed to enhance security and 
 
 ## Complete Video Demonstration is available in Reports/ folder
 
-## Reports folder
-
-we have a dedicated Reports folder which explains the overall project with ease. Make sure you do check it before you proceed.
+Our dedicated Reports folder explains the overall project Documentation with ease. Make sure you do check it before you proceed.
 
 ## Project Team Members
 
